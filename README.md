@@ -1,29 +1,46 @@
-# fe-centrinova
+# Starter Vue 3 Vuetify Service
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a starter project for a Vue 3 application using Vuetify 3. It is based on the Vue CLI 4.5.0 and Vuetify 3.0.0-alpha.1.
 
-## Recommended IDE Setup
+## Project setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+```
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compiles and hot-reloads for development
 
-```sh
+```
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compiles and minifies for production
 
-```sh
+```
 npm run build
 ```
+
+### Lints and fixes files
+
+```
+npm run lint
+```
+
+### Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Vuetify
+
+This project uses Vuetify 3.0.0-alpha.1. See the [Vuetify 3 documentation](https://vuetifyjs.com/en/getting-started/quick-start) for more information.
+
+## Vue CLI
+
+This project was created using the Vue CLI 4.5.0. See the [Vue CLI documentation](https://cli.vuejs.org/) for more information.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
